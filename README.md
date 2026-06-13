@@ -5,12 +5,12 @@
 <div align="center">
 
 ```
-                                          █████╗ ███████╗ █████╗ ██████╗     ██████╗ ███████╗██╗   ██╗
-                                          ██╔══██╗██╔════╝██╔══██╗██╔══██╗    ██╔══██╗██╔════╝██║   ██║
-                                          ███████║███████╗███████║██║  ██║    ██║  ██║█████╗  ██║   ██║
-                                          ██╔══██║╚════██║██╔══██║██║  ██║    ██║  ██║██╔══╝  ╚██╗ ██╔╝
-                                          ██║  ██║███████║██║  ██║██████╔╝    ██████╔╝███████╗ ╚████╔╝
-                                          ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝     ╚═════╝ ╚══════╝  ╚═══╝
+                        █████╗ ███████╗ █████╗ ██████╗    ██████╗ ███████╗██╗   ██╗
+                      ██╔══██╗██╔════╝██╔══██╗██╔══██╗    ██╔══██╗██╔════╝██║   ██║
+                      ███████║███████╗███████║██║  ██║    ██║  ██║█████╗  ██║   ██║
+                      ██╔══██║╚════██║██╔══██║██║  ██║    ██║  ██║██╔══╝  ╚██╗ ██╔╝
+                      ██║  ██║███████║██║  ██║██████╔╝    ██████╔╝███████╗ ╚████╔╝
+                      ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝     ╚═════╝ ╚══════╝  ╚═══╝
 ```
 
 <a href="https://xodjayev.uz">
@@ -22,12 +22,6 @@
 `Uzbekistan` &nbsp;·&nbsp; `React + TypeScript` &nbsp;·&nbsp; `LLM / PyTorch` &nbsp;·&nbsp; `19 shipped apps`
 
 [`./portfolio`](https://xodjayev.uz) &nbsp;&nbsp;**·**&nbsp;&nbsp; [`./linkedin`](https://www.linkedin.com/in/asadbek-xodjayev-1bb8a624a/) &nbsp;&nbsp;**·**&nbsp;&nbsp; [`./telegram`](https://t.me/m2dnight) &nbsp;&nbsp;**·**&nbsp;&nbsp; [`mailto`](mailto:xadasad67@gmail.com)
-
-<br/>
-
-<img src="https://img.shields.io/github/followers/asadbekXodjayev?style=flat-square&logo=github&logoColor=00e5ff&label=followers&labelColor=0a0a0a&color=161b22"/>
-<img src="https://img.shields.io/github/stars/asadbekXodjayev?style=flat-square&logo=github&logoColor=ffb000&label=stars&labelColor=0a0a0a&color=161b22"/>
-<img src="https://komarev.com/ghpvc/?username=asadbekXodjayev&style=flat-square&color=161b22&label=views"/>
 
 </div>
 
