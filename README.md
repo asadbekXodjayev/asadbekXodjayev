@@ -26,6 +26,10 @@ These are pilot runs. The full study and report are in progress.
 - **NVIDIA/Megatron-LM** [#5445](https://github.com/NVIDIA/Megatron-LM/pull/5445): fixed infinite recursion in the abstract tokenizer's special-token-ID property aliases.
 - **NVIDIA/SkillSpector** [#166](https://github.com/NVIDIA/SkillSpector/pull/166) and [#167](https://github.com/NVIDIA/SkillSpector/pull/167): detection of reflective `exec` through `getattr()` literals, and of Unicode Tag-block "ASCII smuggling" hidden instructions in AI-agent skills.
 
+## Open source (proposal adopted)
+
+- **alirezarezvani/claude-skills** [#849](https://github.com/alirezarezvani/claude-skills/issues/849): proposed an i18n and localization skill. The maintainer built it as the `i18n-localization` plugin ([#1095](https://github.com/alirezarezvani/claude-skills/pull/1095)) and released it in [v2.14.7](https://github.com/alirezarezvani/claude-skills/releases/tag/v2.14.7).
+
 ## Engineering and teaching
 
 - Three years building production web platforms in React and TypeScript, mainly for logistics companies.
